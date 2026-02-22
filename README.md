@@ -26,6 +26,5 @@ The study is based on following steps:
 The study shown that RF and ANN shown similar precision, recall, and f1-score, demonstrating both models could predict equally if rainfall will occur tomorrow. However, the study could have been benefited with additional computational resources. For instance, no hyperparameter tuning for ANN or shap analysis was performed in this study because of lack of computational resources.
 
 # **Visualization of correlation of data features**
-![download](https://github.com/user-attachments/assets/96726540-233f-422f-bdad-a0b54fd02e50)
-
+<img width="873" height="778" alt="image" src="https://github.com/user-attachments/assets/7046eedb-0555-4e32-a387-1b05273fa883" />
 Fig: Demonstrating the correlation among some features used in the data
